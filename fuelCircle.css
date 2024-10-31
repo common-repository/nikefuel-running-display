@@ -1,0 +1,11 @@
+      #topLoader {
+        width: 160px;
+        height: 160px;
+      }
+      
+#container{
+	height: 160px;
+	float: right;
+	z-index: 2;
+	position: relative;
+}
